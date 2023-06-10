@@ -1,6 +1,6 @@
 ### Hi there 👋
 I joined Github on June 10, 2023
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onluinyc&label=Profile%20views&color=0e75b6&style=flat" alt="BeauPhang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BeauPhang&label=Profile%20views&color=0e75b6&style=flat" alt="BeauPhang" /> </p>
 <!--
 **BeauPhang/BeauPhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
