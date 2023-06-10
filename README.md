@@ -1,4 +1,5 @@
 ### Hi there 👋
+I joined Github on June 10, 2023
 
 <!--
 **BeauPhang/BeauPhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
